@@ -7,7 +7,12 @@ layout: default
 
 # Soon
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+## watch this space!
+
+limbion learning is coming soon.
+
+Meanwhile just drop us a mail or call us
+
 
 ## What's in it?
 
