@@ -16,5 +16,10 @@ Meanwhile just drop us a mail or call us
 
 ## What's in it?
 
-limbion learning - making an impact, creating value, crossing digital boundaries
+limbion learning creates learning experiences, business cases and networks for the digital world.
+
+
+
+Making an impact -- Creating value -- Crossing digital boundaries
+
 ***
