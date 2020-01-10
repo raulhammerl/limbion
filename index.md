@@ -10,13 +10,13 @@ layout: default
 
 Limbion learning is coming soon.
 
-Meanwhile just drop us a mail or call us
+Meanwhile just drop us a mail or call us.
 
 ***
 
 ## What's in it?
 
-limbion learning creates learning experiences, business cases and networks for the digital world.
+Limbion learning creates learning experiences, business cases and networks for the digital world.
 
 
 
