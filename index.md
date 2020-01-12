@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Soon
-## watch this space!
+## Watch this space!
 
 limbion learning is coming soon.
 
