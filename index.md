@@ -8,7 +8,7 @@ layout: default
 # Soon
 ## watch this space!
 
-Limbion learning is coming soon.
+limbion learning is coming soon.
 
 Meanwhile just drop us a mail or call us.
 
@@ -16,7 +16,7 @@ Meanwhile just drop us a mail or call us.
 
 ## What's in it?
 
-Limbion learning creates learning experiences, business cases and networks for the digital world.
+limbion learning creates learning experiences, business cases and networks for the digital world.
 
 
 
